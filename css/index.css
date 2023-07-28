@@ -1,0 +1,33 @@
+body{
+    background-color: 24353F;
+}
+
+.btSU{
+    
+    margin: auto;
+    color: #17A2B8;
+    border-color: #17A2B8;
+}
+
+.btSU:hover{
+    color: white;
+    background-color: #17A2B8;
+}
+.sign{
+    color: white;
+    text-decoration: none;
+}
+h5 a:hover{
+    text-decoration: underline;
+}
+.btnn{
+    width: 75%;
+    margin: auto;
+    color: #17A2B8;
+    border-color: #17A2B8;
+}
+
+.btnn:hover{
+    color: white;
+    background-color: #17A2B8;
+}
